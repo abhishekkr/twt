@@ -1,9 +1,22 @@
 ## twt
 ---
-* **stack**: Golang
----
 
-just some bird trials on Twitter API
+What It Is?
+
+> * **stack**: Golang, TwitterAPI
+
+just some bird trials on Twitter API, right now it allows you to
+
+* stalk
+> * followers
+> [TBD] * friends
+
+* tickr
+> [TBD] * timeline
+> [TBD] * topic
+
+
+![twt :)](/twt.jpg "twitter twt")
 
 ---
 
@@ -25,3 +38,5 @@ just some bird trials on Twitter API
 
 ./bin/twt -config creds.sample
 ```
+
+---
