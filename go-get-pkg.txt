@@ -1,4 +1,0 @@
-github.com/ChimeraCoder/anaconda
-github.com/abhishekkr/gol/golconfig
-github.com/abhishekkr/gol/golhashmap
-github.com/abhishekkr/twt/bird
